@@ -1,4 +1,4 @@
-id,first img after,last img before,event date (avg or SAR),PDD29,PDD_max,PDD_pct,area (km2),dist terminus-zero (m),precursor crevasse location,PC first visible (days),PC len FV (m),PC len end (m),delta len (m),dist PCfv_terminus (m),PC speed (m/day),group
+id,first_img_after,last_img_before,event_date_avg,pdd,pdd_max,pdd_pct,area,dist_terminus-zero,pc_location,pc_fv,pc_len_fv,pc_len_end,delta_len,dist_pcfv-terminus,pc_speed,group
 C01,25/05/2019,24/05/2019,24/05/2019,32,177,18.1,0.47,699,middle,22,1201,1393,192,591,23.5,1
 C01,,,24/05/2019,,,,,,south,5,637,442,-195,99,17.2,1
 C02,27/05/2019,25/05/2019,26/05/2019,34,177,19.2,1.26,1061,middle,29,457,743,286,740,23.5,1
