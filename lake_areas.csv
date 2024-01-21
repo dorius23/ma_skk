@@ -1,4 +1,4 @@
-date,temp (C),PDD,ice velocity front (m/day),lk1_area,lk2_area,lk3_area,lk4_area,lk5_area,lk6_area,lk7_area,lk8_area,lk9_area,lk10_area,lk11_area,lk12_area
+date,temp,pdd,ice_vel_front,lk1_area,lk2_area,lk3_area,lk4_area,lk5_area,lk6_area,lk7_area,lk8_area,lk9_area,lk10_area,lk11_area,lk12_area
 01/01/2016,-23.60433333,0,,,,,,,,,,,,,
 02/01/2016,-22.66266667,0,,,,,,,,,,,,,
 03/01/2016,-17.196,0,,,,,,,,,,,,,
